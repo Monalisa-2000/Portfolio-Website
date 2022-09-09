@@ -3,7 +3,6 @@
 ### TEMPLATE SCREENSHOT
 
 ### WEBSITE PREVIEW 
-
 (https://poetic-croissant-c1f4e4.netlify.app/index.html#projects)
 
-![Fullscreenshot]![Portfolio Web Image](https://user-images.githubusercontent.com/75751123/189248657-fd79b19e-8ccd-42a2-8f87-d79382a9d805.png)
+![Fullscreenshot]![Portfolio Web Image]!(https://user-images.githubusercontent.com/75751123/189248657-fd79b19e-8ccd-42a2-8f87-d79382a9d805.png)
