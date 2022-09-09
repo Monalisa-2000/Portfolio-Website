@@ -1,6 +1,6 @@
-# Bootstrap 5 Portfolio Template
+  # Portfolio Website
 
-### TEMPLATE SCREENSHOT
+### PORTFOLIO SCREENSHOT
 
 ### WEBSITE PREVIEW 
 (https://poetic-croissant-c1f4e4.netlify.app/index.html#projects)
